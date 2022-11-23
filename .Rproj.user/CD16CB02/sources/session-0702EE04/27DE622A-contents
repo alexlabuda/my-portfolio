@@ -55,7 +55,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Experience with Python, R Programming Language, Excel, SQL, Tableau, tidyverse, tidymodels, keras. I've used media mix modeling, regression, decisions trees and other data mining techniques to help businesses optimize their media mix and budget, predict customer churn, feature importance and unsupervised learning techniques to build customer segments for use in Tealium."
+  description: "I have experience with Python, R Programming, Tableau, Excel, SQL, Snowflake, Keras and Tensorflow. I've performed ongoing media mix modeling to help clients optimize the efficieny of their marketing mix and overall budget. I have experience wrangling data to piece together multiple complex data sets, and performed regression analysis to identify key business drivers while controlling for weather, competitor sales and macroeconomic events. I have used machine learning to forecast sales, predict customer churn, perform sentiment analysis, as well as unsupervised learning techniques to identify customer segments for use in CDPs such as Tealium."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
