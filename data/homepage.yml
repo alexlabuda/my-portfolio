@@ -35,7 +35,7 @@ about:
   title: "Who am I?"
   content:
     <p class="lead">
-    <strong>I love working with data.</strong> My passion is working together with a team to help clients solve complex business problems. When I am not working
+    <strong>I love working with data.</strong> My passion is working with a team to help clients solve complex business problems. When I am not working
     with data, I enjoy exercising and traveling to new places with my family and friends.
     </p>
     <p class="lead">
@@ -136,7 +136,7 @@ client_and_work:
 
   works:
     - title: "Visualizing NYC Crime"
-      description: "This visualization helps us see where crime occurs most frequently, as well as trends through time in New York City"
+      description: "This visualization helps us see where crime occurs most frequently, as well as identifying trends through time in New York City"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Viz"
@@ -147,7 +147,7 @@ client_and_work:
       is_even: true
 
     - title: "Customer Spend Prediction"
-      description: "This dashboards helps Marketing & R&D Teams determine gaps in customers predicted spend and actual spend using machine learning. Data is wrangled and RFM (Recency, Frequency, Monetary) features are created to help predict the probability of spend, and the amount ($) each customer is likely to spend. Marketing teams can then use this to target customers that were predicted to spend but did not, or customers that were predicted to spend more than they actually did."
+      description: "This dashboard helps Marketing & R&D Teams determine gaps in customer spend. Under the hood, it uses machine learning to predict spend and compare it to actual spend. Data is wrangled to create  RFM (Recency, Frequency, Monetary) features to help predict the probability of a purchase, and the amount ($) each customer is likely to spend. Marketing teams can then use this to target customers that were predicted to spend but did not, or customers that are likely to spend even more than they already have."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Viz"
