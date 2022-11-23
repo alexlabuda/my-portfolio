@@ -60,10 +60,10 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/alex-labuda/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "/cv/resume-alex.pdf"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "/cv/resume-alex.pdf"
 
   items:
     - title: "Data Scientist Consultant"
